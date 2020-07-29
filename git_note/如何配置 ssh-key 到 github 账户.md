@@ -30,7 +30,7 @@ $ clip < ~/.ssh/id_rsa_github.pub
 
    打开github的仓库页面， `setting` -> `Deploy keys` -> `Add delpoy key` 
 
-![image-20200730053622364](image/image-20200730053622364.png)
+![image-20200730053622364](../image/image-20200730053622364.png)
 
 之后填写表单，执行如下操作
 
